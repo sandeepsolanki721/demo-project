@@ -1,5 +1,5 @@
 # demo-project
 First git repository for demo 
 <br> 
-Author:- Sandeep solanki
+Author:- Sandeep singh solanki
 
